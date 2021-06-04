@@ -1,0 +1,6 @@
+framework module OSBase {
+  umbrella header "OSBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
