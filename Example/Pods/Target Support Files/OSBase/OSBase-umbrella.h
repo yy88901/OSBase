@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CSKeyChain.h"
 #import "JRSwizzle.h"
 #import "SYSafeCategory.h"
 
